@@ -1,2 +1,2 @@
-# pitching_stats
-Visual comparisons of MLB pitching statistics from 2025 season
+# 11/17/2025
+Working on visual comparisons of MLB pitching statistics from the 2025 season
